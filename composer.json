@@ -1,11 +1,11 @@
 {
-  "name": "chenjie/hello",
+  "name": "LayuiYii/progress",
   "description": "echo hello world",
   "license": "MIT License",
   "authors": [
     {
-      "name": "chenjie",
-      "email": "chenjie@chenjie.info"
+      "name": "张洪波",
+      "email": "zhanghongbo@chenjie.info"
     }
   ],
   "minimum-stability": "dev",
